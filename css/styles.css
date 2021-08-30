@@ -82,7 +82,7 @@
 /* ===================================Aditional Reousre DropDown================================*/
 /* Dropdown Button */
 .dropbtn {
-  background-color: rgba(0,0,0,0.03);
+  background-color: rgb(0, 0, 0);
   color: white;
   padding: 16px;
   font-size: 16px;
